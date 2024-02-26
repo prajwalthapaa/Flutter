@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880319531978",
+    "project_id": "dreamcakes-mob",
+    "storage_bucket": "dreamcakes-mob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880319531978:android:c02456660223f141835d33",
+        "android_client_info": {
+          "package_name": "com.example.n_baz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880319531978-8lrp577nocda0u9n3scrna4un8u47u5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbsnzkegb_KVn7C-iILIa3skcCYTYgg64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880319531978-8lrp577nocda0u9n3scrna4un8u47u5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
